@@ -33,12 +33,12 @@ collections:
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "_pages/about.md"
-        label: "About"
+        label: "About Me"
         name: "about"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
-      - file: "_pages/utilities.md"
-        label: "Utilities"
-        name: "utilities"
+      - file: "_pages/teaching.md"
+        label: "Teaching"
+        name: "teaching"
         fields:
           - {label: "Body", name: "body", widget: "markdown"}
