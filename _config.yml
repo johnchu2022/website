@@ -3,12 +3,12 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: George  
-middle_name: Baihan
-last_name: Wang
-email: george.wang@monash.edu
+first_name: John  
+middle_name: 
+last_name: cHU
+email: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  PhD Student in Finance at Monash Business School
+  
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="https://www.netlify.com/" target="_blank">Netlify</a>.
 
