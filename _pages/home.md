@@ -8,7 +8,7 @@ selected_papers: false
 permalink: /
 social: false
 news: false
-subtitle: Associate Professor
+subtitle:
 title: Home
 ---
 ##### H﻿ello.
