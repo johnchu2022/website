@@ -1,0 +1,44 @@
+backend:
+  name: git-gateway
+  repo: georgebwang/site
+  branch: master # Branch to update (optional; defaults to master)
+
+publish_mode: editorial_workflow
+
+media_folder: "assets/media" # Media files will be stored in the repo under assets/media]
+
+collections:
+  - name: "news" # Used in routes, e.g., /admin/collections/blog
+    label: "News" # Used in the UI
+    folder: "_news/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{title}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Inline", name: "inline", widget: "boolean", default: true}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "_pages/home.md"
+        label: "Homepage"
+        name: "home"
+        fields:
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "_pages/research.md"
+        label: "Research"
+        name: "research"
+        fields:
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "_pages/about.md"
+        label: "About"
+        name: "about"
+        fields:
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "_pages/utilities.md"
+        label: "Utilities"
+        name: "utilities"
+        fields:
+          - {label: "Body", name: "body", widget: "markdown"}
