@@ -8,10 +8,7 @@ selected_papers: false
 permalink: /
 social: false
 news: false
-subtitle: ------ @ <a target="_blank"
-  href="https://www.monash.edu/business/baf">Department of Banking and
-  Finance</a> • <a target="_blank"
-  href="https://www.monash.edu/business/home">Monash Business School</a>
+subtitle: Associate Professor
 title: Home
 ---
 ##### H﻿ello.
