@@ -7,7 +7,7 @@ nav: true
 ---
 #### P﻿ublications
 
-\[﻿1] xxxxxxxx [www.google.com](www.google.com)
+\[﻿1] x[xxxxxx](google.com)x [](www.google.com)
 
 #### Work in Progress
 
