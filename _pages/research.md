@@ -9,11 +9,11 @@ nav: true
 
 \[﻿4] **Mutual Fund Holdings of Credit Default Swaps: Liquidity, Yield, and Risk:** with Wei Jiang and Jitao Ou, April 2021, ***The Journal of Finance,*** 76(2), pp. 537-586.  [SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2549996); [DOI link](https://onlinelibrary.wiley.com/doi/10.1111/jofi.12996)
 
-\[﻿3] Informed Trading by Adviser Banks: Evidence from Options Holdings: with Michelle Lowry and Macro Rossi, The Review of Financial Studies, 32(2), pp. 605-645.
+\[﻿3] **Informed Trading by Adviser Banks: Evidence from Options Holdings**: with Michelle Lowry and Macro Rossi, ***The Review of Financial Studies***, 32(2), pp. 605-645.
 
-\[﻿2] The Financial Implications of Supply Chain Changes: with Joel Houston and Chen Lin, September 2016, Management Science, 62(9), pp. 2520-2542.
+\[﻿2] **The Financial Implications of Supply Chain Changes**: with Joel Houston and Chen Lin, September 2016, ***Management Science***, 62(9), pp. 2520-2542.
 
-\[﻿1] Where Have All the IPO Gone?: with Xiaohui Gao and Jay Ritter, December 2013, The Journal of Financial and Quantitative Analysis, 48(6), pp. 1663-1692.
+\[﻿1] **Where Have All the IPO Gone?**: with Xiaohui Gao and Jay Ritter, December 2013, ***The Journal of Financial and Quantitative Analysis***, 48(6), pp. 1663-1692.
 
 #### Working Papers
 
