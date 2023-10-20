@@ -7,7 +7,7 @@ layout: about
 selected_papers: false
 permalink: /
 social: false
-news: true
+news: false
 subtitle: null
 title: Home
 ---
