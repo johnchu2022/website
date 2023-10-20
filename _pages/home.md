@@ -11,6 +11,8 @@ news: true
 subtitle: null
 title: Home
 ---
+![](/assets/media/jchu_b-f_tmott_29may2023_8630.jpg)
+
 ##### W﻿elcome to my webpage
 
 John Chu is an academic economist affiliated with Monash University. His current research interests cover topics linking household finance, banking, and corporate liquidity management.
