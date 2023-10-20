@@ -11,7 +11,7 @@ news: true
 subtitle: null
 title: Home
 ---
-![](/assets/media/jchu_b-f_tmott_29may2023_8630.jpg)
+
 
 ##### W﻿elcome to my webpage
 
