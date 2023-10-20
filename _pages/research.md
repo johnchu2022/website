@@ -13,6 +13,8 @@ nav: true
 
 #### Working Papers
 
+* **Bank Asset Problem and Financial Stability:** September 2023, SSRN link coming soon
+* **B﻿alance Rights and Responsibilities in Liquidity Supply and Demand Contracts**: with Zhanbing Xiao, September 2023, SSRN link coming soon
 * **Household Default, Capital Constrained Large Banks, and Selective Spillovers:** with Christian Lundblad and Jitao Ou, August 2021 [SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3952556)
 
 <br/>
