@@ -19,9 +19,12 @@ nav: true
 
 * **Bank Asset Problem and Financial Stability:** September 2023, SSRN link coming soon
 * **B﻿alance Rights and Responsibilities in Liquidity Supply and Demand Contracts**: with Zhanbing Xiao, September 2023, SSRN link coming soon
-* B﻿ank Asset Problem and Cross Borrower Spillovers: with Jitao Ou, May 2023
-* O﻿n the Choices of Lifestyle and Growth: work in progress, April 2023
-* R﻿eserve, Risk Tolerance, and Fund Flows: with Woon Sau Leung, May 2023, SSRN Link coming soon
+* **B﻿ank Asset Problem and Cross Borrower Spillovers**: with Jitao Ou, May 2023
+* **O﻿n the Choices of Lifestyle and Growth**: April 2023
+* **R﻿eserve, Risk Tolerance, and Fund Flows**: with Woon Sau Leung, March 2023
 * **Household Default, Capital Constrained Large Banks, and Selective Spillovers:** with Christian Lundblad and Jitao Ou, August 2021 [SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3952556)
+* **R﻿epo Runs, Collateral, and Counterparty Institutions**: 2016, SSRN Link
+* **T﻿he Source of Superior Infomration: Admisors' Holdings of Call Options on Targets**: 2016, SSRB link
+* **C﻿an the performance of Structural Corporate Bond Models Be Improved?**: 2008, SSRN Link
 
 <br/>
