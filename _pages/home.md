@@ -24,6 +24,6 @@ John Chu is an academic economist affiliated with Monash University. His current
 
 ##### W﻿hat's new
 
-2023Q4, I am working on a portfolio of 
+2023Q4, I am working on a new portfolio of 
 
 <br/>
