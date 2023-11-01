@@ -13,6 +13,8 @@ title: Home
 ---
 #### W﻿elcome to my webpage
 
+Dear visitors, I am relocating the website host service. I expect to complete the transformation by the end of November 2023. Thank you and please visit again. 
+
 John Chu is an academic economist affiliated with Monash University. His current research interests cover topics linking household finance, banking, and corporate liquidity management. 
 
 ##### Contact
