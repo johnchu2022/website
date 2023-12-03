@@ -13,7 +13,7 @@ title: Home
 ---
 Dear visitors, 
 
-I am relocating the website host service. I expect to complete the transformation by the end of December 2023. I am also excited to introduce a new research portfolio. Thank you and please visit again. See you soon, ...
+I am relocating the website host service. I expect to complete the transformation by the end of December 2023 (sorry for the delay). I am also excited to introduce a new research portfolio. Thank you and please visit again. See you soon, ...
 
 #### W﻿elcome to my webpage
 
@@ -26,4 +26,4 @@ John Chu is an academic economist affiliated with Monash University. His current
 
 ##### W﻿hat's new
 
-2023Q4, I am working on a new portfolio of papers in three pillars of bankers, entrepreneurs, and households. Two first papers titled "Bank Asset Problem and Financial Stability" and "Balance Rights and Responsibilities in Liquidity Supply and Demand Contracts" will be available in SSRN in December 2023. More papers are expected in first half of 2024.
+2023Q4, I am working on a new portfolio of papers in three pillars of bankers, entrepreneurs, and households. Two first papers titled "**Bank Asset Problem and Financial Stability**" and "**Balance Rights and Responsibilities in Liquidity Supply and Demand Contracts**" will be available in SSRN in December 2023. More papers are expected in first half of 2024.
