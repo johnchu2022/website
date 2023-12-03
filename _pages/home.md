@@ -26,4 +26,4 @@ John Chu is an academic economist affiliated with Monash University. His current
 
 ##### W﻿hat's new
 
-2023Q4, I am working on a new portfolio of papers in three pillars of bankers, entrepreneurs, and households. Two first papers titled "Bank Asset Problem and Financial Stability" and "Balance Rights and Responsibilities in Liquidity Supply and Demand Contracts"<br/>
+2023Q4, I am working on a new portfolio of papers in three pillars of bankers, entrepreneurs, and households. Two first papers titled "Bank Asset Problem and Financial Stability" and "Balance Rights and Responsibilities in Liquidity Supply and Demand Contracts" will be available in SSRN in December 2023. More papers are expected in first half of 2024.
