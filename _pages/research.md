@@ -20,7 +20,9 @@ nav: true
 * **Bank Asset Problem and Financial Stability:** December 2023, [SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649359)
 
   I study a banking crisis development mechanism focusing on bad bank loans. The non-performing loans can break the good equilibrium of a perfectly diversified bank loan portfolio in Diamond (1984). The slow asset recovery can trigger panic bank runs different from the mechanism in Diamond and Dybvig (1983). My model can explain the collapse and acquisition of Silicon Valley Bank in March 2023 and the systemic crisis in 2008. Click “Latest Version” to access the revision updated on December 31, 2023.
-* **B﻿alance Rights and Responsibilities in Liquidity Supply and Demand Contracts**: with Zhanbing Xiao, September 2023, SSRN link coming soon
+* **B﻿alance Rights and Responsibilities in Liquidity Supply and Demand Contracts**: with Zhanbing Xiao, November 2023, [SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649372)
+
+  We extend the entrepreneur’s debt contract in Holmström and Tirole (1998) by three assumptions. Banks are active; the entrepreneur’s income is stochastic; the bank or the entrepreneur maximizes its utility. Our model can address two questions. Why do some, but not all, companies have access to credit lines? Why does a company have access to term loans or convertible debt instead? Our empirical evidence supports our model predictions.
 * **B﻿ank Asset Problem and Cross Borrower Spillovers**: with Jitao Ou, May 2023
 * **O﻿n the Choices of Lifestyle and Growth**: April 2023
 * **R﻿eserve, Risk Tolerance, and Fund Flows**: with Woon Sau Leung, March 2023
