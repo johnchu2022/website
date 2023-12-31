@@ -11,19 +11,21 @@ news: false
 subtitle: null
 title: Home
 ---
-Dear visitors, 
-
-I am relocating the website host service. I expect to complete the transformation by the end of December 2023 (sorry for the delay). I am also excited to introduce a new research portfolio. Thank you and please visit again. See you soon, ...
-
 #### W﻿elcome to my webpage
 
-John Chu is an academic economist affiliated with Monash University. His current research interests cover topics linking household finance, banking, and corporate liquidity management. 
+I am John Chung-Yen Chu, an Australian citizen born in mainland China. Chung-Yen Chu is the Wade-Giles romanization and presentation of my name (朱中彦) in Mandarin Chinese. Since being an Australian citizen, I am on my journey towards the faith of Christianity. Therefore, John C. Chu is my choice of cultural appreciation. My name in CCP’s English translation had been (Zhongyan Zhu).
+
+I have publications in *The Journal of Finance*, *The Review of Financial Studies*, *Journal of Financial and Quantitative Analysis*, and *Management Science*. My research papers have won awards, including the William F. Sharpe Award, been presented at academic conferences, including the American Economic Association (AEA), American Finance Association (AFA), and Western Finance Association (WFA), and been featured in news media, including Bloomberg, The Economist, etc. My research proposals have been funded by the Early Career Scheme and The Research Grants Council Hong Kong.
+
+I received my Ph.D. in Finance from Indiana University Bloomington (IUB) and an M.B.A. from the Saïd Business School at the University of Oxford. Joining Monash University in 2016, I was Dean's Commendation for Excellence in Research in 2020.
+
+##### W﻿hat's new
+
+I have been building a theme-based research portfolio on “reserves” since 2021. Reserves are cash, and here is the intuition. All risk-taking operations generate stochastic income. However, the costs to support risk-taking operations are constant. When income is below expectation, cash is necessary to support and continue the risk-taking business.  The riskier a risk-taking business, the higher the cash an agent must prepare. Obviously, reserves are different from the cash in the CAPM model. Currently, papers are being built in three pillars on three economic agents of entrepreneurs, banks, and households. 
+
+One paper is on the banking crisis development mechanism titled “**Bank Asset Problem and Financial Stability**”. One paper is on the debt contract of entrepreneurs titled “**Balance Rights and Responsibilities in Liquidity Supply and Demand Contracts**”. Both papers are on SSRN in 2023Q4. More papers are expected in the first half of 2024.  If it is of interest, please visit my research page.
 
 ##### Contact
 
 * Email: <a href="mailto:john.chu@monash.edu">john.chu@monash.edu</a>
 * Office: W1007, 20 Chancellors Walk (Menzies Building), Clayton VIC 3168, Australia
-
-##### W﻿hat's new
-
-2023Q4, I am working on a new portfolio of papers in three pillars of bankers, entrepreneurs, and households. Two first papers titled "**Bank Asset Problem and Financial Stability**" and "**Balance Rights and Responsibilities in Liquidity Supply and Demand Contracts**" will be available in SSRN in December 2023. More papers are expected in first half of 2024.
