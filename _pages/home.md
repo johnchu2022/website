@@ -25,5 +25,4 @@ I received my Ph.D. in Finance from Indiana University Bloomington (IUB) and an 
 
 ##### Contact
 
-* Email: <a href="mailto:john.chu@monash.edu">john.chu@monash.edu</a>
-* Office: W1007, 20 Chancellors Walk (Menzies Building), Clayton VIC 3168, Australia
+* Email: <a href="mailto:john.chu@monash.edu">john.chu@monash.edu</a> Office: W1007, 20 Chancellors Walk (Menzies Building), Clayton VIC 3168, Australia
