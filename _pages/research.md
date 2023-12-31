@@ -18,6 +18,8 @@ nav: true
 #### Working Papers
 
 * **Bank Asset Problem and Financial Stability:** September 2023, SSRN link coming soon
+
+  I study a banking crisis development mechanism focusing on the bank asset side. The non-performing loans can break the good equilibrium of a perfectly diversified bank loan portfolio in Diamond (1984). The slow asset recovery can trigger panic bank runs different from the mechanism in Diamond and Dybvig (1983). My model can explain the collapse and acquisition of Silicon Valley Bank in March 2023 and the systemic crisis in 2008. 
 * **B﻿alance Rights and Responsibilities in Liquidity Supply and Demand Contracts**: with Zhanbing Xiao, September 2023, SSRN link coming soon
 * **B﻿ank Asset Problem and Cross Borrower Spillovers**: with Jitao Ou, May 2023
 * **O﻿n the Choices of Lifestyle and Growth**: April 2023
