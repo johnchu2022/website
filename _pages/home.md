@@ -21,9 +21,8 @@ I received my Ph.D. in Finance from Indiana University Bloomington (IUB) and an 
 
 ##### W﻿hat's new
 
-*Updated on December 31, 2023*. I have been building a theme-based research portfolio on “reserves” since 2021. Reserves are cash, and here is the intuition. All risk-taking operations generate stochastic income. However, the costs to support risk-taking operations are constant. When income is below expectation, cash is necessary to pay the costs so agents can continue risk-taking.  The riskier an operation, the higher the cash an agent must prepare. Obviously, reserves are different from the cash in the CAPM model. Currently, papers are being built in three pillars on three economic agents of entrepreneurs, banks, and households. One paper is on the banking crisis development mechanism titled “**Bank Asset Problem and Financial Stability**”. One paper is on the debt contract of entrepreneurs titled “**Balance Rights and Responsibilities in Liquidity Supply and Demand Contracts**”. More papers are expected in the first half of 2024.
+*Updated on December 31, 2023*. I have been building a theme-based research portfolio on “reserves” since 2021. Reserves are cash, and here is the intuition. All risk-taking operations generate stochastic income. However, the costs to support risk-taking operations are constant. When income is below expectation, cash is necessary to pay the costs so agents can continue risk-taking.  The riskier an operation, the higher the cash an agent must prepare. Obviously, reserves are different from the cash in the CAPM model. Currently, papers are being built in three pillars on three economic agents of entrepreneurs, banks, and households. One paper is on the banking crisis development mechanism titled “**Bank Asset Problem and Financial Stability**”. One paper is on the debt contract of entrepreneurs titled “**Balance Rights and Responsibilities in Liquidity Supply and Demand Contracts**”. More papers are expected in H1 2024.
 
 ##### Contact
 
-* Email: <a href="mailto:john.chu@monash.edu">john.chu@monash.edu</a>
-* Office: W1007, 20 Chancellors Walk (Menzies Building), Clayton VIC 3168, Australia
+* Email: <a href="mailto:john.chu@monash.edu">john.chu@monash.edu</a> Office: W1007, 20 Chancellors Walk (Menzies Building), Clayton VIC 3168, Australia
