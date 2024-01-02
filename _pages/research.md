@@ -25,9 +25,9 @@ I study a banking crisis development mechanism focusing on bad bank loans. The n
 
 We extend the entrepreneur’s debt contract in Holmström and Tirole (1998) by three assumptions. Banks are active; the entrepreneur’s income is stochastic; the bank or the entrepreneur maximizes its utility. Our model can address two questions. Why do some, but not all, companies have access to credit lines? Why does a company have access to term loans or convertible debt instead? Our empirical evidence supports our model predictions.
 
-* **B﻿ank Asset Problem and Cross Borrower Spillovers**: with Jitao Ou, May 2023
-* **O﻿n the Choices of Lifestyle and Growth**: April 2023
-* **R﻿eserve, Risk Tolerance, and Fund Flows**: with Woon Sau Leung, March 2023
+* **B﻿ank Asset Problem and Cross Borrower Spillovers**: with Jitao Ou, follow-up of WP \[5], expected H12024
+* **O﻿n the Choices of Lifestyle and Growth**: April 2023, expected H1 2024
+* **R﻿eserve, Risk Tolerance, and Fund Flows**: with Woon Sau Leung, March 2023, expected updated H1 2024
 * **R﻿epo Runs, Collateral, and Counterparty Institutions**: 2016, SSRN Link
 * **T﻿he Source of Superior Infomration: Admisors' Holdings of Call Options on Targets**: 2016, SSRB link
 * **C﻿an the performance of Structural Corporate Bond Models Be Improved?**: 2008, SSRN Link
