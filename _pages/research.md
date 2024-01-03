@@ -17,13 +17,13 @@ nav: true
 
 #### Working Papers
 
-**\[5] Bank Asset Problem and Financial Stability:** December 2023, [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649359)]; [[Short PPT](https://www.dropbox.com/scl/fi/0d0k94sac9psjogyjxpnw/Banks_pres.pdf?rlkey=0cjopbjvq4o78ubn8fx8lbbke&dl=0)]
+**\[5] Bank Asset Problem and Financial Stability:** December 2023, [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649359)]
 
-I study a banking crisis development mechanism focusing on bad bank loans. The non-performing loans can break the good equilibrium of a perfectly diversified bank loan portfolio in Diamond (1984). The slow asset recovery can trigger panic bank runs different from the mechanism in Diamond and Dybvig (1983). My model can explain the collapse and acquisition of Silicon Valley Bank in March 2023 and the systemic crisis in 2008. Click “Latest Version” to access the revision updated on December 31, 2023.
+I study a banking crisis development mechanism focusing on bad bank loans. The non-performing loans can break the good equilibrium of a perfectly diversified bank loan portfolio in Diamond (1984). The slow asset recovery builds anxiety, and withdrawal requests from a small proportion of household depositors trigger panic bank runs.  This is different from the mechanism in Diamond and Dybvig (1983). My model can explain the collapse and acquisition of Silicon Valley Bank in March 2023 and the systemic crisis in 2008. [[Short PPT](https://www.dropbox.com/scl/fi/0d0k94sac9psjogyjxpnw/Banks_pres.pdf?rlkey=0cjopbjvq4o78ubn8fx8lbbke&dl=0)]
 
-**\[6] B﻿alance Rights and Responsibilities in Liquidity Supply and Demand Contracts**: with Zhanbing Xiao, November 2023, [](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649372)[[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649372)]; [[Short PPT](https://www.dropbox.com/scl/fi/0crnqwd8scjkqyjh0krw4/Pro_LC_pres.pdf?rlkey=nqm1pe968v72o99d2yt6uatw8&dl=0)]
+**\[6] B﻿alance Rights and Responsibilities in Liquidity Supply and Demand Contracts**: with Zhanbing Xiao, November 2023, [](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649372)[[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649372)]
 
-We extend the entrepreneur’s debt contract in Holmström and Tirole (1998) by three assumptions. Banks are active; the entrepreneur’s income is stochastic; the bank or the entrepreneur maximizes its utility. Our model can address two questions. Why do some, but not all, companies have access to credit lines? Why does a company have access to term loans or convertible debt instead? Our empirical evidence supports our model predictions.
+We extend the entrepreneur’s debt contract in Holmström and Tirole (1998) by three assumptions. Banks are active; the entrepreneur’s income is stochastic; the bank or the entrepreneur maximizes its utility. Our model can address two questions. Why do some, but not all, companies have access to credit lines? Why does a company have access to term loans or convertible debt instead? Our empirical evidence confirms our model predictions. [[Short PPT](https://www.dropbox.com/scl/fi/0crnqwd8scjkqyjh0krw4/Pro_LC_pres.pdf?rlkey=nqm1pe968v72o99d2yt6uatw8&dl=0)]
 
 * **B﻿ank Asset Problem and Cross Borrower Spillovers**: with Jitao Ou, follow-up of WP \[5], expected H12024
 * **O﻿n the Choices of Lifestyle and Growth**: April 2023, expected H1 2024
