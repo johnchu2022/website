@@ -11,7 +11,7 @@ news: false
 subtitle: null
 title: Home
 ---
-### Hello, I am excited to welcome you to my academic website 
+### Hello, I am excited to welcome you to my website
 
 I am an Australian economist born in China. Chung-Yen Chu is the Wade-Giles romanization and presentation of my name (朱中彦) in Chinese. Since becoming an Australian citizen, I have been free on my journey towards the faith of Christianity. John C. Chu is my choice of cultural appreciation. My name in CCP’s pinyin was (Zhongyan Zhu).
 
