@@ -15,7 +15,7 @@ title: Home
 
 I am an Australian economist born in China. Chung-Yen Chu is the Wade-Giles romanization and presentation of my name (朱中彦) in Chinese. Since becoming an Australian citizen, I have been free on my journey towards the faith of Christianity. John C. Chu is my choice of cultural appreciation. My name in CCP’s pinyin was (Zhongyan Zhu).
 
-I have publications in *The Journal of Finance*, *The Review of Financial Studies*, *Journal of Financial and Quantitative Analysis*, and *Management Science*. My research papers have won awards, including the William F. Sharpe Award, been presented at academic conferences, including the American Economic Association (AEA), American Finance Association (AFA), and Western Finance Association (WFA), and been featured in news media, including Bloomberg, The Economist, etc. My research proposals have been funded by the Early Career Scheme and The Research Grants Council Hong Kong.
+I have publications in *The Journal of Finance*, *The Review of Financial Studies*, *Journal of Financial and Quantitative Analysis*, and *Management Science*. My research papers have won awards, including the William F. Sharpe Award, been presented at academic conferences, including the American Economic Association (AEA), American Finance Association (AFA), and Western Finance Association (WFA), and been featured in news media, including *Bloomberg*, *The Economist*, etc. My research proposals have been funded by the *Early Career Scheme* and *The Research Grants Council* Hong Kong.
 
 I received my Ph.D. in Finance from Indiana University Bloomington (IUB) and an M.B.A. from the Saïd Business School at the University of Oxford. Joining Monash University in 2016, I was Dean's Commendation for Excellence in Research in 2020.
 
