@@ -29,7 +29,7 @@ We extend the entrepreneur’s debt contract in Holmström and Tirole (1998) by 
 
 **\[8] O﻿n the Choices of Lifestyle and Growth**: April 2023, *expected in H1 2024*
 
-**\[9] R﻿eserve, Risk Tolerance, and Fund Flows**: with Woon Sau Leung, March 2023, update expected  in H1 2024
+**\[9] R﻿eserve, Risk Tolerance, and Fund Flows**: with Woon Sau Leung, March 2023, *update expected  in H1 2024*
 
 * **R﻿epo Runs, Collateral, and Counterparty Institutions**: 2016, SSRN Link
 * **T﻿he Source of Superior Infomration: Admisors' Holdings of Call Options on Targets**: 2016, SSRB link
