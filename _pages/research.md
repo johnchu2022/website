@@ -23,7 +23,7 @@ I study a banking crisis development mechanism focusing on bad bank loans. The n
 
 **\[6] B﻿alance Rights and Responsibilities in Liquidity Supply and Demand Contracts**: with Zhanbing Xiao, November 2023, [](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649372)[[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649372)]
 
-We extend the entrepreneur’s debt contract in Holmström and Tirole (1998) by three assumptions. Banks are active; the entrepreneur’s income is stochastic; the bank or the entrepreneur maximizes its utility. Our model can address two questions. Why do some, but not all, companies have access to credit lines? Why does a company have access to term loans or convertible debt instead? Our empirical evidence confirms our model predictions. \[Short PPT]
+We extend the entrepreneur’s debt contract in Holmström and Tirole (1998) by three assumptions. Banks are active; the entrepreneur’s income is stochastic; the bank or the entrepreneur maximizes its utility. Our model can address two questions. Why do some, but not all, companies have access to credit lines? Why does a company have access to term loans or convertible debt instead? Our empirical evidence confirms our model predictions. [[Short PPT](https://www.dropbox.com/scl/fi/0crnqwd8scjkqyjh0krw4/Pro_LC_pres.pdf?rlkey=nqm1pe968v72o99d2yt6uatw8&dl=0)]
 
 * **B﻿ank Asset Problem and Cross Borrower Spillovers**: with Jitao Ou, follow-up of WP \[5], expected H12024
 * **O﻿n the Choices of Lifestyle and Growth**: April 2023, expected H1 2024
