@@ -23,7 +23,7 @@ I study a mechanism for developing banking crises from the bank asset side. The 
 
 **\[6] B﻿alance Rights and Responsibilities in Liquidity Supply and Demand Contracts**: with Zhanbing Xiao, November 2023, [](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649372)[[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649372)]
 
-We extend the entrepreneur’s debt contract in Holmström and Tirole (1998) by three assumptions. Banks are active; the entrepreneur’s income is stochastic; the bank or the entrepreneur maximizes its utility. Our model can address two questions. Why do some, but not all, companies have access to credit lines? Why does a company have access to term loans or convertible debt instead? Our empirical evidence confirms our model predictions. [[Presentation Slides](https://www.dropbox.com/scl/fi/0crnqwd8scjkqyjh0krw4/Pro_LC_pres.pdf?rlkey=nqm1pe968v72o99d2yt6uatw8&dl=0)[](https://www.dropbox.com/scl/fi/0crnqwd8scjkqyjh0krw4/Pro_LC_pres.pdf?rlkey=nqm1pe968v72o99d2yt6uatw8&dl=0)]
+We extend the entrepreneur’s debt contract in Holmström and Tirole (1998) by two assumptions. Banks are active; the entrepreneur’s income is stochastic. Our model can address two questions. Why do some, but not all, companies have access to credit lines? Why do companies that need credit lines the most not have access? Our empirical evidence confirms our model predictions. [[Presentation Slides](https://www.dropbox.com/scl/fi/0crnqwd8scjkqyjh0krw4/Pro_LC_pres.pdf?rlkey=nqm1pe968v72o99d2yt6uatw8&dl=0)[](https://www.dropbox.com/scl/fi/0crnqwd8scjkqyjh0krw4/Pro_LC_pres.pdf?rlkey=nqm1pe968v72o99d2yt6uatw8&dl=0)]
 
 **\[7] B﻿ank Asset Problem and Cross Borrower Spillovers**: with Jitao Ou, follow-up of WP \[5], *update expected  in H1 2024*
 
