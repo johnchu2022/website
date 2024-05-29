@@ -17,9 +17,9 @@ nav: true
 
 #### Working Papers
 
-**\[5] Bank Asset Problem and Financial Stability:** December 2023, [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649359)]
+**\[5] Bank Asset Problem and Financial Stability:** April 2024, [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649359)]
 
-I study a mechanism for developing banking crises from the bank asset side. The non-performing loans can break the good equilibrium of a perfectly diversified bank loan portfolio in Diamond (1984). Slow asset recovery divides households' opinions; withdrawal requests from a small proportion of early household depositors can lead to panic bank runs. The bank run mechanism differs from that in Diamond and Dybvig (1983). My model can explain the collapse and acquisition of Silicon Valley Bank in March 2023 and the systemic crisis in 2008. [[Presentation Slides](https://www.dropbox.com/scl/fi/3mfm2k3zaaiazvqgahr3f/Banks_pres.pdf?rlkey=j47jsowynn2mci74cix4e2wdz&dl=0)[](https://www.dropbox.com/scl/fi/0d0k94sac9psjogyjxpnw/Banks_pres.pdf?rlkey=0cjopbjvq4o78ubn8fx8lbbke&dl=0)]
+I study a mechanism of bank failure due to problems on the bank asset side. With novel and realistic assumptions, bad loans can become the first asset problem because the bank will not satisfy the regulatory capital ratio. Household depositors panic because the acquisition offer on the bank’s good loans is insufficient for household recovery.  My model can explain multiple bank failures in 2023 and the systemic crisis in 2008. [[Presentation Slides](https://www.dropbox.com/scl/fi/3mfm2k3zaaiazvqgahr3f/Banks_pres.pdf?rlkey=j47jsowynn2mci74cix4e2wdz&dl=0)[](https://www.dropbox.com/scl/fi/0d0k94sac9psjogyjxpnw/Banks_pres.pdf?rlkey=0cjopbjvq4o78ubn8fx8lbbke&dl=0)]
 
 **\[6] B﻿alance Rights and Responsibilities in Liquidity Supply and Demand Contracts**: with Zhanbing Xiao, November 2023, [](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649372)[[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649372)]
 
