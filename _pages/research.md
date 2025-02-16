@@ -17,9 +17,9 @@ nav: true
 
 #### Working Papers
 
-**\[5] Bank Asset Problem and Financial Stability:** April 2024, [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649359)]
+**\[5] Self-Healing Loan Maintenance**: February 2025, [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649359)]
 
-I study a mechanism of bank failure due to problems on the bank asset side. With novel and realistic assumptions, bad loans can become the first asset problem because the bank will not satisfy the regulatory capital ratio. Household depositors panic because the acquisition offer on the bank’s good loans is insufficient for household recovery.  My model can explain multiple bank failures in 2023 and the systemic crisis in 2008. [May 2024 [Presentation Slides](https://www.dropbox.com/scl/fi/3mfm2k3zaaiazvqgahr3f/Banks_pres.pdf?rlkey=j47jsowynn2mci74cix4e2wdz&dl=0)[](https://www.dropbox.com/scl/fi/0d0k94sac9psjogyjxpnw/Banks_pres.pdf?rlkey=0cjopbjvq4o78ubn8fx8lbbke&dl=0)]
+II identify a self-healing mechanism that governs the future of bank loans and household wealth. Self-healing refers to bank operations allocating profits from good loans to replace bad loans. Varying good loans relative to bad loans, self-healing maintenance can be fast or slow. Rapid self-healing guarantees the long-term growth of bank loans and household wealth accumulation. Insufficient good loans cause slow self-healing, and continuous loan growth is not guaranteed. Stage I slow healing can cause bank funding liquidity shortages. However, stage II slow healing features excessive collateral damage, which can destroy bank capital protection and cause households to panic. [May 2024 [Presentation Slides](https://www.dropbox.com/scl/fi/3mfm2k3zaaiazvqgahr3f/Banks_pres.pdf?rlkey=j47jsowynn2mci74cix4e2wdz&dl=0)[](https://www.dropbox.com/scl/fi/0d0k94sac9psjogyjxpnw/Banks_pres.pdf?rlkey=0cjopbjvq4o78ubn8fx8lbbke&dl=0)]
 
 **\[6] B﻿alance Rights and Responsibilities in Liquidity Supply and Demand Contracts**: with Zhanbing Xiao, November 2023, [](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649372)[[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649372)]
 
