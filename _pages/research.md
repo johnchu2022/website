@@ -29,9 +29,9 @@ We propose a fairness-of-exchange model based on new assumptions to revisit deci
 
 We offer a new explanation of why systemically important banks acquired bad MBS at dislocated prices during the Great Recession. We build the explanation on three pillars. First, large banks have extensive good loans that generate quarterly profits. Second, corporate borrowing demand is shrinking during the Great Recession. Third, large banks speculate that dislocated prices will recover soon. Acquiring bad MBS with good collateral has unintended consequences. Large banks collectively become capital-constrained. We test a channel of poor self-healing on the corporate side. Compared to existing known channels, our proposal endogenizes bank capital and offers ex ante warnings to companies.
 
-**\[8] O﻿n the Choices of Lifestyle and Growth**: April 2023, *expected in H1 2024*
+**\[8] O﻿n the Choices of Lifestyle and Growth**: April 2023, *expected in H2 2025*
 
-**\[9] R﻿eserve, Risk Tolerance, and Fund Flows**: with Woon Sau Leung, March 2023, *update expected  in H1 2024*
+**\[9] R﻿eserve, Risk Tolerance, and Fund Flows**: with Woon Sau Leung, March 2023, *update expected  in H2 2025*
 
 * **R﻿epo Runs, Collateral, and Counterparty Institutions**: 2016, SSRN Link
 * **T﻿he Source of Superior Infomration: Admisors' Holdings of Call Options on Targets**: 2016, SSRB link
