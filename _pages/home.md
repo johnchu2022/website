@@ -21,7 +21,7 @@ I received my Ph.D. in Finance from Indiana University Bloomington (IUB) and an 
 
 ##### W﻿hat's new
 
-*Updated on December 31, 2023*. I have been building a theme-based research portfolio on “reserves” since 2021. Here is the intuition. Reserves are cash. All risk-taking operations generate stochastic income. However, the costs to support risk-taking operations are constant. When income is below expectation, cash must pay the expenses so agents can continue risk-taking. The riskier an operation, the higher the cash an agent must prepare. Reserves are different from the cash in the CAPM model. Five papers are being built in three pillars on three economic agents of entrepreneurs, banks, and households. One working paper is on the banking crisis titled “**Bank Asset Problem and Financial Stability**”. One working paper is on the debt contract “**Balance Rights and Responsibilities in Liquidity Supply and Demand Contracts**”. I expect to add three more papers in H1 2024.
+*Updated on February 17, 2025*. In the second half of 2021, we documented a puzzle. Twenty-two large U.S. banks, with assets qualifying for G-SIBs, reported more bank capital to the Federal Reserve than the SEC from 2007Q3 to 2009Q4. Research endeavors since then have yielded three papers. The direct answer to explain the misreporting mechanism is in the “**Great Recession and Systemically Important Banks**” paper. The theoretical foundation to build a misreporting mechanism is in the “**Self-Healing Loan Maintenance**” paper. The mechanism of new loan origination and companies’ liquidity decisions are in the paper “**Fairness of Exchange in Loan Agreement**.”
 
 ##### Contact
 
