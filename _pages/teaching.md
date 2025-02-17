@@ -16,10 +16,10 @@ nav: true
 
 #### C﻿hinese University of Hong Kong
 
-FIN4120, Fixed Income Securities Analysis
-FIN6252, Empirical Methods in Finance
+* FIN4120, Fixed Income Securities Analysis 
+* FIN6252, Empirical Methods in Finance
 
 ### Indiana University, Bloomington
 
-F421, Derivative Securities and Corporate Risk Management
-F335, Security Trading and Market Making
+* F421, Derivative Securities and Corporate Risk Management
+* F335, Security Trading and Market Making
