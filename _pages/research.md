@@ -29,7 +29,7 @@ This study identifies the profit uncertainty of entrepreneurs as a wedge that br
 
 Poor maintenance decisions can explain why large banks acquired defaulted MBS assets before and during the Great Recession. We build the explanation on three pillars. First, large banks have extensive good loans that generate continuous profits. Second, corporate borrowing demand started to shrink before the Great Recession. Third, large banks speculate that dislocated prices will recover soon. Acquiring bad MBS assets with good collateral has unintended consequences. Large banks collectively become capital-constrained.   Poor maintenance decisions, instead of bank capital, are responsible for the financial instability. We identify a new spillover channel through which bank risks affect real-world companies. [February 2025 [Presentation Slides](https://www.dropbox.com/scl/fi/3fcksh370x2qew0srsqoe/Bank_JC2_pres.pdf?rlkey=r2v2uf5qfhlh2fmg59nas3ddt&dl=0)[](https://www.dropbox.com/scl/fi/3fcksh370x2qew0srsqoe/Bank_JC2_pres.pdf?rlkey=r2v2uf5qfhlh2fmg59nas3ddt&dl=0)]; [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5121111)]
 
-**\[8] O﻿n the Choices of Lifestyle and Growth**: April 2023, *new revision* *expected 2026*
+**\[8] O﻿n the Choices of Lifestyle and Growth**: April 2023, *new revision* *expected in 2026*
 
 **\[9] R﻿eserve, Risk Tolerance, and Fund Flows**: with Woon Sau Leung, March 2023, *new revision expected in 2026*
 
