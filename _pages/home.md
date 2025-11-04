@@ -19,7 +19,7 @@ I have publications in *The Journal of Finance*, *The Review of Financial Studie
 
 I received my Ph.D. in Finance from Indiana University Bloomington (IUB) and an M.B.A. from the Saïd Business School at the University of Oxford. Joining Monash University in 2016, I was Dean's Commendation for Excellence in Research in 2020.
 
-With a background of multiple cultures, I declare my sole Australian nationality and proudly call Australia my home country. I cancelled my Beijing household registration (注銷北京戶口) in 2016. The Hong Kong Immigration Department confirmed, in 2025, my declaration of a change of nationality (國籍變更申報) to Australia. 
+With a background of multiple cultures, I declare my sole Australian nationality and proudly call Australia my home country. I cancelled my Beijing household registration (注銷北京戶口) in 2016. The Hong Kong Immigration Department confirmed in 2025 that I had declared a change of nationality (國籍變更申報) to Australia. 
 
 Since 2001, I have been on a journey of faith towards Christianity. John C. Chu is my choice of cultural appreciation. The CCP’s pinyin for my name, as (Zhongyan Zhu), was renounced in 2022.
 
