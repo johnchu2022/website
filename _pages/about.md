@@ -5,7 +5,7 @@ permalink: /about/
 description: null
 nav: true
 ---
-<a href="/assets/media/Chu_Resume_Mar2025.pdf" target="_blank">Download CV</a> (Updated: March 2025)
+<a href="assets/media/chu_resume_nov2025.pdf" target="_blank">Download CV</a> (Updated: September 2025)
 
 <br/>
 
