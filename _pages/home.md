@@ -21,7 +21,7 @@ I received my Ph.D. in Finance from Indiana University Bloomington (IUB) and an 
 
 With a background of multiple cultures, I declare my sole Australian nationality and proudly call Australia my home country. I cancelled my Beijing household registration (注銷北京戶口) in 2016. The Hong Kong Immigration Department confirmed in 2025 that I had declared a change of nationality (國籍變更申報) to Australia. 
 
-Since 2001, I have been on a journey of faith towards Christianity. John C. Chu is my choice of cultural appreciation. The CCP’s pinyin for my name, as (Zhongyan Zhu), was renounced in 2022.
+Since 2001, I have been on a journey of faith towards Christianity. John C. Chu is my choice of cultural appreciation. I renounce the name of Zhongyan Zhu, the CCP’s pinyin of my name, in 2022.
 
 ##### W﻿hat's new
 
