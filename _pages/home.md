@@ -17,7 +17,7 @@ I am an Australian economist born in China. Chung-Yen Chu is the Wade-Giles roma
 
 I have publications in *The Journal of Finance*, *The Review of Financial Studies*, *Journal of Financial and Quantitative Analysis*, and *Management Science*. My research papers have won awards, including the William F. Sharpe Award, been presented at academic conferences, including the American Economic Association (AEA), American Finance Association (AFA), and Western Finance Association (WFA), and been featured in news media, including *Bloomberg*, *The Economist*, etc. My research proposals have been funded by the *Early Career Scheme* and *The Research Grants Council* Hong Kong.
 
-I earned a Ph.D. in Finance in 2009 from Indiana University Bloomington (IUB). The Ph.D. program is a natural pursuit following the completion of an M.B.A. at the University of Oxford. I pursued an advanced degree at Oxford after spending 11 years in various central government departments in the CCP. I earned my BEng degree from Huazhong University of Science and Technology in 1990. 
+I earned a Ph.D. in Finance in 2009 from Indiana University Bloomington (IUB). The Ph.D. program is a natural pursuit following the completion of an M.B.A. at the University of Oxford. 
 
 With a rich background of multiple cultures, I declare my sole Australian nationality and proudly call Australia my home country. I cancelled my Beijing household registration (注銷北京戶口) in 2016. The Hong Kong Immigration Department confirmed in 2025 that I had declared a change of nationality (國籍變更申報) to Australia. 
 
